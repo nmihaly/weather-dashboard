@@ -1,5 +1,5 @@
 var getWeatherInfo = function() {
-    console.log("function was called");
+  fetch("function was called");
   };
   
   getWeatherInfo();
