@@ -1,3 +1,4 @@
+// variables
 var city = "";
 var currentTemperature = document.querySelector(".temp");
 var currentHumidty = document.querySelector(".humidity");
@@ -8,7 +9,8 @@ var citySearch = document.querySelector(".searchInput")
 var citySearchBtn = document.querySelector(".searchBtn");
 
 // api variable set up with api key
-var apiURL = "https://api.openweathermap.org/data/2.5/weather?q=" + citySearch + "&appid=60f54ac03ed7a4b3ce28598e56d34aee";
+// key does not work with citySearch var?
+var apiURL = "https://api.openweathermap.org/data/2.5/weather?q=" + citySearch + "&appid=d3438048dbcaeb40473421d355cfba74";
 
 //fetch weather info from api
 var getWeatherInfo = function() {
