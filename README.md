@@ -1,3 +1,4 @@
+![2021-05-30 (2)](https://user-images.githubusercontent.com/80426878/120151285-ec667d80-c1a0-11eb-8005-7deb4eae4510.png)
 # weather-dashboard
 
 **User Story
